@@ -29,16 +29,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Overview](https://placehold.co/800x400/1e293b/a5b4fc?text=Dashboard+Screenshot)
-![Skills Tracker](https://placehold.co/800x400/1e293b/c084fc?text=Skills+Screenshot)
-![Mobile Layout](https://placehold.co/400x600/1e293b/6366f1?text=Mobile+View)
-
-*(Add real showcase images later)*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -77,7 +67,3 @@
 
 ---
 
-## 🌐 Live Demo
-
-[Check out the live demo here!]((https://placehold.co/100x10))
-*(Coming Soon)*
